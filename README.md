@@ -23,7 +23,7 @@ Der Network Creator wird folgendermaßen aufgerufen:
 
 (4) die neueste Version von [Vyos rolling](https://vyos.net/get/nightly-builds/) runterladen und unter /home/user/ansible/vyos-files/ ablegen (dazu den Ordner vyos-files anlegen). Diese Datei ab und zu aktualisieren, damit das Update auf dem neuesten Stand bleibt.
 
-und dann eingeben:
+Und dann eingeben:
 
 source .venv/bin/activate
 
