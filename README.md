@@ -62,7 +62,7 @@ Die Warnung:
 
 WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
 
-dürfte für die Erstellung von einem Netzwerk aus 9 Routern im lokalen Bereich irrelevant sein, da der hier verwendete Server stark und sicher genug für diesen Zweck sein dürfte. Wer trotzdem einen besseren Server verwenden will kann das folgendermaßen versuchen:
+dürfte für die Erstellung von einem Netzwerk aus 9 Routern im lokalen Bereich irrelevant sein, da der hier verwendete Server stark und sicher genug für diesen Zweck sein dürfte. Wer trotzdem einen besseren Server verwenden will, kann das folgendermaßen versuchen:
 
 Möglichkeit 1:
 
