@@ -43,9 +43,9 @@ Nötigenfalls sudo-Password des Users im Terminal eingeben.
 
 Der Network Creator kommt per default im Dark Mode, kann aber folgendermaßen auf Light Mode umgestellt werden:
 
-(1) Benenne den Ordner ~/streams/static/ um in ~/streams/static_light/
+(1) Benenne den Ordner ~/streams/static/ um in ~/streams/static_dark/
 
-(2) Benenne den Ordner ~/streams/static_dark/ um in ~/streams/static/
+(2) Benenne den Ordner ~/streams/static_light/ um in ~/streams/static/
 
 (3) Starte den Network Creator neu mittels  
 
