@@ -3,3 +3,4 @@ qm create 307999 --name "dhcp3" --ostype l26 --memory 1536 --balloon 1500 --cpu 
 qm set 307999 --ide2 /var/lib/vz/template/iso/ubuntu-24.04.1-live-server-amd64.iso,media=cdrom
 qm set 307999 --boot order=ide2
 qm set 307999 -net1 model=virtio,bridge=vmbr1001,firewall=0
+qm set 107999 --agent enabled=1
