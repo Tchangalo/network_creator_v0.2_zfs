@@ -99,3 +99,5 @@ Diese Meldung erklärt sich selbst.
 Insbesondere bei schwächeren/langsameren Rechnern kann es in seltenen Fällen Timeoutprobleme geben. Dazu bitte die Datei Timeoutprobleme.pdf lesen.
 
 Falls im Firefox die Darstellung im Darkmode nicht ganz perfekt ist und der Wechsel zum Lightmode nicht funktioniert, Chrome oder Chromium verwenden.
+
+Das Network Device net2 von p1r9v muss bislang im Nachgang noch händisch das VLAN-Tag 1074 gesetzt bekommen. Für p2r9v und p3r9v analog (d.h. immer dasselbe VLAn-Tag, das pXr7v auf seinem net4 hat). Auch im Hinblick auf die Integration der Mikrotiks r10m, r11m und r12m wird hier das vlan3.sh überarbeitet werden müssen.
