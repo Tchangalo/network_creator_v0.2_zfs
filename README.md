@@ -96,5 +96,6 @@ core/2.17/reference_appendices/interpreter_discovery.html for more information.
 
 Diese Meldung erklärt sich selbst.
 
-Insbesondere bei schwächeren/langsameren Rechnern kann es ab und zu Timeoutprobleme geben. Dazu bitte die Datei Timeoutprobleme.pdf lesen.
+Insbesondere bei schwächeren/langsameren Rechnern kann es in seltenen Fällen Timeoutprobleme geben. Dazu bitte die Datei Timeoutprobleme.pdf lesen.
 
+Falls im Firefox die Darstellung im Darkmode nicht ganz perfekt ist und der Wechsel zum Lightmode nicht funktioniert, Chrome oder Chromium verwenden.
